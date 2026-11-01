@@ -1,3 +1,4 @@
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                SAMEER // SYNTHWAVE PROFILE                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -55,3 +56,106 @@ current_focus: AI Agents, 3D Web & Health Tech
 languages: [TypeScript, Python, JavaScript]
 ask_me_about: [React, Node.js, LangChain, Three.js, FastAPI]
 fun_fact: I debug in neon. 💜
+```
+
+> **"The future is retro."** — I build tools that feel like they were shipped from a neon-lit arcade in 1986, but run on modern stacks.
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+  <!-- FRONTEND -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
+  <br/>
+
+  <!-- BACKEND & AI -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <br/>
+
+  <!-- TOOLS -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 Neon Stats
+
+<div align="center">
+
+  <!-- GITHUB STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer10237&theme=synthwave&show_icons=true&hide_border=true&count_private=true&title_color=FF007F&icon_color=00FFFF&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+
+  <!-- STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer10237&theme=synthwave&hide_border=true&ring=FF007F&fire=00FFFF&currStreakLabel=FF007F" height="180" alt="Streak Stats" />
+
+  <br/>
+
+  <!-- TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer10237&layout=compact&theme=synthwave&hide_border=true&title_color=FF007F&text_color=FFFFFF" alt="Top Languages" />
+
+  <br/>
+
+  <!-- ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer10237&theme=synthwave&hide_border=true&color=FF007F&line=8A2BE2&point=00FFFF" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🕹️ Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/sameer10237/2D-3D-home-design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameer10237&repo=2D-3D-home-design&theme=synthwave&hide_border=true&title_color=FF007F&icon_color=00FFFF" alt="2D-3D Home Design" />
+  </a>
+  <a href="https://github.com/sameer10237/health-vitality">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameer10237&repo=health-vitality&theme=synthwave&hide_border=true&title_color=FF007F&icon_color=00FFFF" alt="Health Vitality" />
+  </a>
+  <br/>
+  <a href="https://github.com/sameer10237/Debugging-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameer10237&repo=Debugging-Agent&theme=synthwave&hide_border=true&title_color=FF007F&icon_color=00FFFF" alt="Debugging Agent" />
+  </a>
+  <a href="https://github.com/sameer10237/Research-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameer10237&repo=Research-Agent&theme=synthwave&hide_border=true&title_color=FF007F&icon_color=00FFFF" alt="Research Agent" />
+  </a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <!-- This will work only after you add the snake.yml workflow -->
+  <img src="https://raw.githubusercontent.com/sameer10237/sameer10237/output/snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sameer10237&theme=synthwave&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+---
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,8A2BE2,00FFFF&height=120&section=footer" alt="Footer" />
