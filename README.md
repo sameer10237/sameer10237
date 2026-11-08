@@ -44,11 +44,20 @@ A few projects that reflect the areas I'm exploring:
 
 <div align="center">
 
-[![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer10237&show_icons=true&theme=radical&hide_border=true)](https://github.com/sameer10237)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sameer10237&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Sameer's GitHub statistics" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer10237&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" alt="Most-used programming languages" />
+    </td>
+  </tr>
+</table>
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer10237&layout=compact&theme=radical&hide_border=true)](https://github.com/sameer10237)
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer10237&theme=redical&hide_border=true)](https://github.com/sameer10237)
+<a href="https://github.com/sameer10237">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer10237&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="95%" />
+</a>
 
 </div>
 
