@@ -28,6 +28,10 @@ I build web applications and experiment with practical software ideas—from AI-
 | **Backend & AI** | Python, Node.js, FastAPI, LangChain, OpenAI |
 | **Tools** | Git, Docker, Vercel, Figma |
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sameer10237/sameer10237/main/assets/gothic-portrait.svg" alt="Black and white gothic portrait illustration" width="360" />
+</div>
+
 ---
 
 <div align="center">
