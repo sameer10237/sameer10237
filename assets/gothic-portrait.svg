@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-label="Black and white gothic portrait illustration">
+  <rect width="700" height="700" fill="#f7f7f7"/>
+
+  <!-- antlers / horns -->
+  <g stroke="#111" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 115 C150 70, 120 65, 100 90 C80 110, 90 150, 110 175"/>
+    <path d="M200 120 C230 75, 255 65, 280 95 C304 120, 298 160, 273 180"/>
+    <path d="M110 175 C88 210, 76 243, 74 266"/>
+    <path d="M273 180 C312 222, 324 268, 328 304"/>
+  </g>
+
+  <!-- hair -->
+  <g fill="#111">
+    <path d="M158 188 C118 230, 95 286, 103 355 C112 432, 148 486, 154 560 C158 604, 145 641, 125 677 L124 690 L235 690 C212 620, 210 564, 228 511 C243 466, 270 451, 290 448 C254 403, 231 366, 224 314 C217 266, 226 216, 158 188 Z"/>
+    <path d="M550 200 C586 245, 608 293, 612 354 C617 430, 576 503, 568 586 C563 633, 583 652, 607 690 L494 690 C491 631, 471 585, 445 550 C427 526, 412 498, 408 468 C401 420, 415 383, 468 372 C495 366, 529 352, 547 326 C567 298, 565 246, 550 200 Z"/>
+    <path d="M325 170 C362 117, 435 94, 489 130 C528 158, 545 189, 548 231 C484 206, 442 182, 402 178 C370 175, 350 177, 325 170 Z"/>
+  </g>
+
+  <!-- face -->
+  <g fill="#f8f8f8" stroke="#111" stroke-width="6">
+    <path d="M258 205 C215 220, 182 260, 172 315 C163 365, 174 439, 200 479 C233 528, 286 551, 351 548 C425 544, 474 512, 501 474 C534 430, 548 371, 532 322 C518 279, 486 248, 449 228 C424 214, 395 206, 358 204 C319 202, 284 202, 258 205 Z"/>
+  </g>
+
+  <!-- features -->
+  <g fill="#111" stroke="#111" stroke-width="3">
+    <ellipse cx="300" cy="322" rx="17" ry="25"/>
+    <ellipse cx="392" cy="322" rx="17" ry="25"/>
+    <path d="M343 365 Q348 392 356 393 Q365 392 370 366"/>
+    <path d="M304 420 Q349 453 391 421" fill="none" stroke="#111" stroke-width="7" stroke-linecap="round"/>
+    <path d="M264 338 L228 367 L258 390 L276 365 Z"/>
+    <path d="M426 336 L460 368 L431 390 L411 364 Z"/>
+  </g>
+
+  <!-- brows / tears -->
+  <g stroke="#111" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M258 296 Q290 278 321 297"/>
+    <path d="M372 297 Q405 278 432 297"/>
+    <path d="M242 395 Q230 408 220 418"/>
+    <path d="M464 398 Q477 410 490 420"/>
+  </g>
+
+  <!-- lips / mouth -->
+  <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M312 416 C333 435 355 436 380 416"/>
+    <path d="M317 430 Q349 447 382 430"/>
+  </g>
+
+  <!-- neckline / body -->
+  <g fill="#111">
+    <path d="M223 515 C266 560, 303 578, 349 578 C394 578, 432 560, 474 516 L527 690 L174 690 L223 515 Z"/>
+    <path d="M228 542 C254 530, 283 530, 305 545 L296 690 L230 690 Z"/>
+    <path d="M471 542 C447 530, 417 530, 396 545 L404 690 L470 690 Z"/>
+  </g>
+
+  <!-- chest cross / pendant -->
+  <g fill="#111" stroke="#111" stroke-width="5" stroke-linecap="round">
+    <path d="M351 545 V620"/>
+    <path d="M320 568 H382"/>
+    <path d="M332 568 L351 515 L371 568" fill="none"/>
+  </g>
+
+  <!-- lower dark garment -->
+  <g fill="#111">
+    <path d="M227 622 C274 588, 312 583, 350 583 C389 583, 427 588, 473 622 L519 690 L181 690 Z"/>
+  </g>
+
+  <!-- decorative details -->
+  <g fill="none" stroke="#111" stroke-width="4" stroke-linecap="round">
+    <path d="M205 606 C232 620, 260 625, 286 624"/>
+    <path d="M414 624 C441 624, 468 618, 497 605"/>
+    <path d="M182 670 C285 649, 415 649, 518 670"/>
+    <path d="M285 627 C302 648, 324 660, 349 661 C374 660, 396 648, 414 627"/>
+  </g>
+</svg>
