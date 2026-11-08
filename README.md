@@ -46,6 +46,20 @@ A few projects that reflect the areas I'm exploring:
 
 <table>
   <tr>
+    <td>
+      <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=700&q=80" width="260" alt="AI and teamwork workspace" />
+    </td>
+    <td>
+      <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=700&q=80" width="260" alt="Developer coding on laptop" />
+    </td>
+    <td>
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=700&q=80" width="260" alt="Creative coding and design workspace" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=sameer10237&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Sameer's GitHub statistics" />
     </td>
